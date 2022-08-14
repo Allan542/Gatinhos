@@ -6,6 +6,6 @@ Este é uma página feita para aprender como que utiliza a função **fetch()** 
 
 - Segue abaixo, uma screenshot para exemplificar a tela:
 
-![Print Tela Gatinhos](./assets/img/print-1.png)
+![Screenshot Tela Gatinhos](./assets/img/print-1.png "Tela gatinhos")
 
 É isso :smiley:
